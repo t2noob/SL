@@ -8,6 +8,12 @@ sites:
     url: $SECONDSERVER
   - name: Private Bin
     url: $NOTES_DOMAIN
+  - name: Proton Mail
+    url: mail.proton.me
+  - name: Simple Login
+    url: app.simplelogin.io
+  - name: Bitwarden 
+    url: vault.bitwarden.com
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
