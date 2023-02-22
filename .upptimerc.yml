@@ -28,4 +28,12 @@ assignees: # Users to assign downtime issues (optional)
 #NOTIFICATION_TELEGRAM: true
 #NOTIFICATION_TELEGRAM_CHAT_ID: $TG_CHAT_ID
 #NOTIFICATION_TELEGRAM_BOT_KEY: $TG_BOT_TOKEN
+workflowSchedule:
+  graphs: "*/5 * * * *"
+  responseTime: "*/5 * * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "*/5 * * * *"
+  uptime: "*/5 * * * *"
 runner: '[self-hosted]'
