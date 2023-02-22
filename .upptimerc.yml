@@ -24,7 +24,6 @@ status-website:
       href: /
 assignees: # Users to assign downtime issues (optional)
   - t2noob
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 #NOTIFICATION_TELEGRAM: true
