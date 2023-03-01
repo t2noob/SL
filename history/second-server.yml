@@ -1,7 +1,7 @@
 url: $SECONDSERVER
-status: up
-code: 200
-responseTime: 320
-lastUpdated: 2023-03-01T02:44:47.935Z
+status: down
+code: 502
+responseTime: 102
+lastUpdated: 2023-03-01T14:55:11.839Z
 startTime: Wed Feb 22 2023 16:35:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
